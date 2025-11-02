@@ -1,0 +1,15 @@
+檔名：學號_作業編號_版本 (第一版用v1，第二版用v2，以此類推)
+ex. 7113056022_HW1_v1
+    7113056022_HW1_v2
+因為上傳後的作業無法刪除及修改，若要修改作業，請直接上傳新版作業，打分會以最後一個版本為主
+
+內容為主要演算法與程式片斷，包含測試資料與結果，以及簡短的討論或結論等。請把書面報告WORD電子檔，程式Source code及相關測試資料先以Winzip或WinRAR壓縮後上傳。
+
+
+HW1: Please write a programming assignment that generates the artifacts caused by insufficient sampling and quantization during digital image creation—specifically Moiré patterns and false contours. You may use either grayscale or true-color images.​
+
+HW2: Please write a programming assignment to implement logical AND operation and union operation between two images."
+
+HW3: Please write a programming assignment to implement perspective transformation using an 8-parameter spatial transformation model.
+
+HW4: Please write a programming assignment to implement image sharpening techniques based on the Laplacian operator and gradient-based masks. The gradient and the convolution operation should be implemented manually, including appropriate zero-padding. The use of built-in convolution APIs is not permitted.
